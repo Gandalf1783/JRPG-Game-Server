@@ -1,5 +1,5 @@
 # JRPG-Game-Server
-GameServer for CodeNMores Java RPG Game.
+GameServer for @CodeNMore's Java RPG Game.
 
 
 # Releases and Source-Code
